@@ -1,1 +1,2 @@
-# Smart-Wardrobe-Planner
+Ever experienced disorganized wardrobes and our favourite pieces hiding in the mess... 
+This project implements Computer vision and Clustering (a machine learning algorithm) to analyse various cloth pieces - casuals, formals, shirts, PJs, pants, jumpers, etc. and clusters them to organize wardrobe effectively.
